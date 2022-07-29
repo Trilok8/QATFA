@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyBluetooth",
+        "repositoryURL": "https://github.com/jordanebelanger/SwiftyBluetooth",
+        "state": {
+          "branch": "master",
+          "revision": "7f279a22db5d66a6214c18352f7c531cfeb804fb",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
